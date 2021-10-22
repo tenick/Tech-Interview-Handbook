@@ -1,2 +1,2 @@
 # Two Sum
-https://leetcode.com/problems/two-sum/solution/
+https://leetcode.com/problems/two-sum/
